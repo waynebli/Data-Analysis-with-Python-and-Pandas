@@ -1,0 +1,6 @@
+**/datasets
+**/.ipynb_checkpoints
+**/Package
+*.pdf
+**/*.csv
+**/*.xlsx
